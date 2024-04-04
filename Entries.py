@@ -6,7 +6,7 @@ def fill_tables():
         host="localhost",
         user="yourusername",
         password="yourpassword",
-        database="yourdatabase"
+        database="EMA"
     )
     
     cursor = conn.cursor()
